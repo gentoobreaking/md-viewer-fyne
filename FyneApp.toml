@@ -1,0 +1,6 @@
+[Details]
+  Icon = "Icon.png"
+  Name = "md-viewer"
+  ID = "com.mdviewer.app"
+  Version = "0.1.0"
+  Build = 1

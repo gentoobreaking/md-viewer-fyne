@@ -1,0 +1,33 @@
+# Go
+vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.app
+
+# Fyne / build
+fyne-apps/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+node_modules/
+*.log
+dist/
+build/
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.cache/
+temp/
+tmp/
